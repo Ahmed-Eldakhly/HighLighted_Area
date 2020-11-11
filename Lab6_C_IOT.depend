@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1605120625 source:e:\iot track iti\c\programs\lab6_c_iot\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605122507 source:e:\iot track iti\c\programs\lab6_c_iot\problem3.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1604574487 source:e:\iot track iti\c\programs\lab6_c_iot\problem4.c
+	<stdio.h>
+	<stdlib.h>
+
+1604575074 source:e:\iot track iti\c\programs\lab6_c_iot\problem5.c
+	<stdio.h>
+	<stdlib.h>
+
+1604572087 source:e:\iot track iti\c\programs\lab6_c_iot\problem6.c
+	<stdio.h>
+	<stdlib.h>
+
+1604572093 source:e:\iot track iti\c\programs\lab6_c_iot\problem7.c
+	<stdio.h>
+	<stdlib.h>
+
+1605078965 source:e:\iot track iti\c\programs\lab6_c_iot\problem1.c
+	<stdio.h>
+	<stdlib.h>
+
+1605079075 source:e:\iot track iti\c\programs\lab6_c_iot\problem2.c
+	<stdio.h>
+	<stdlib.h>
+
